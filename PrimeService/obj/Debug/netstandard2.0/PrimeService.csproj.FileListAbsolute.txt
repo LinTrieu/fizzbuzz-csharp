@@ -1,0 +1,9 @@
+/Users/linna@paddle.com/week_eight/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/Users/linna@paddle.com/week_eight/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/Users/linna@paddle.com/week_eight/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/Users/linna@paddle.com/week_eight/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csprojAssemblyReference.cache
+/Users/linna@paddle.com/week_eight/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/linna@paddle.com/week_eight/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/Users/linna@paddle.com/week_eight/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
+/Users/linna@paddle.com/week_eight/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/Users/linna@paddle.com/week_eight/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb
