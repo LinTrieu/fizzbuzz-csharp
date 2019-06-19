@@ -8,10 +8,10 @@ namespace Prime.UnitTests.Services
     {
         private readonly PrimeService _primeService;
 
-        // public PrimeService_IsPrimeShould()
-        // {
-        //     _primeService = new PrimeService();
-        // }
+        public PrimeService_IsPrimeShould()
+        {
+            _primeService = new PrimeService();
+        }
 
         [Test]
         public void ReturnNumber()
